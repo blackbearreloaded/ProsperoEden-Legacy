@@ -12,6 +12,11 @@
 
 This is an early alpha. Video, audio, controller input, and saves have been confirmed working. Compatibility and performance will vary between games.
 
+## 🚧 Source code coming soon
+
+> [!IMPORTANT]
+> **The ProsperoEden source code will be published soon.** We are still completing performance enhancements, polishing the user interface, and preparing the project for a clean public source release. The current alpha package is available for early testing while this work continues.
+
 ## Project foundation
 
 > [!IMPORTANT]
