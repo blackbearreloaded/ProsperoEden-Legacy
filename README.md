@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> # 🚚 ProsperoEden has moved
+> **New home: [github.com/blackbearreloaded/ProsperoEden](https://github.com/blackbearreloaded/ProsperoEden)**
+>
+> New releases, the source code and all future updates are published there. This repository only keeps the old alpha releases and is no longer updated.
+
 <p align="center">
   <img src="sce_sys/icon0.png" width="128" alt="ProsperoEden icon">
 </p>
